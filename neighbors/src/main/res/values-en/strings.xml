@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Neighbor</string>
+    <string name="alert_title">Confirmation Message</string>
+    <string name="alert_message">Do you want to delete this neighbor ?</string>
+    <string name="btn_oui">Yes </string>
+    <string name="btn_non">No</string>
+    <string name="hint_address">address</string>
+    <string name="add_neighbor">Add a neighbor</string>
+    <string name="list_neighbor">Neighbors list</string>
+</resources>

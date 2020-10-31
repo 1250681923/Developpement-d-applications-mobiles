@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Neighbors</string>
+    <string name="alert_title">Confirmation Message</string>
+    <string name="alert_message">Voulez-vous supprimer ce voisin ?</string>
+    <string name="btn_oui">Oui </string>
+    <string name="btn_non">Non</string>
+    <string name="hint_address">ahh</string>
+    <string name="add_neighbor">Ajouter voisin</string>
+    <string name="list_neighbor">Liste des voisins</string>
+</resources>

@@ -1,0 +1,4 @@
+include ':neighbors'
+include ':activities'
+include ':app'
+rootProject.name = "mbds"
